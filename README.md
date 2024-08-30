@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_daly15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_daly15" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mazen-el-daly-7a0a2726a/(https://www.linkedin.com/in/mazen-el-daly-7a0a2726a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen el daly" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mazen-el-daly-7a0a2726a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen el daly" height="30" width="40" /></a>
 <a href="https://fb.com/mazen el daly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazen el daly" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eldaly solvings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eldaly solvings" height="30" width="40" /></a>
 </p>
