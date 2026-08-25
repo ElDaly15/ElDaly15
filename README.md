@@ -83,7 +83,7 @@
 ## 🎓 Leadership
 - **Mentor**, Google Developer Groups (GDG) – BNU *(Aug 2026 – Present)* — mentoring across all community tracks.
 - **Community Lead**, Google Developer Groups (GDG) – BNU *(Sep 2025 – Aug 2026)* — driving community vision, overseeing tracks, events, and partnerships.
-- **Head & Instructor, Flutter Track**, GDG – BNU *(Oct 2024 – Aug 2025)* — led the Flutter track, mentored students, and delivered technical workshops.
+- **Head & Instructor, Flutter Track**, GDG – BNU *(Oct 2024 – Aug 2025)* — lead the Flutter track, mentored students, and delivered technical workshops.
 
 ---
 
