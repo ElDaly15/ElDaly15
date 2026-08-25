@@ -6,13 +6,19 @@
 ---
 
 # 👨‍💻 About Me
-
-💡 **Flutter Developer** with **2+ years** of experience building scalable cross-platform apps for iOS and Android.
-🚀 Skilled in **Bloc/Cubit state management**, **RESTful APIs**, **WebSockets**, and **Firebase**.
-💳 Experienced with **payment integrations** — PayPal, Stripe, Apple Pay, Google Pay, and In-App Purchases.
-🔔 Comfortable with **push notifications (FCM)** and real-time features.
-🎓 Head & Community Lead at **Google Developer Groups (GDG) – BNU**, mentoring students in Flutter development.
+ 
+💡 **Flutter Developer** with **2+ years** of experience building scalable cross-platform apps for iOS and Android.  
+ 
+🚀 Skilled in **Bloc/Cubit state management**, **RESTful APIs**, **WebSockets**, and **Firebase**.  
+ 
+💳 Experienced with **payment integrations** PayPal, Stripe, Apple Pay, Google Pay, and In-App Purchases.  
+ 
+🔔 Comfortable with **push notifications (FCM)** and real-time features.  
+ 
+🎓 Head & Community Lead at **Google Developer Groups (GDG) – BNU**, mentoring students in Flutter development.  
+ 
 📫 Reach me at **dalydevelopment15@gmail.com**
+ 
 
 ---
 
@@ -81,16 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElDaly15&show_icons=true&locale=en&theme=radical&count_private=true" alt="Mazen El Daly stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDaly15&layout=compact&locale=en&theme=radical" alt="Mazen El Daly top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ElDaly15&theme=radical" alt="Mazen El Daly streak stats" />
-</p>
-
----
 
 ## 🎯 Currently Learning
 - Advanced **CI/CD pipelines** for Flutter (GitHub Actions)
