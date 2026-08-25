@@ -60,7 +60,7 @@
 
 ### 🧰 Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,xcode,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman,figma,vscode" />
 </p>
 
 ---
